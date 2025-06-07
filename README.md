@@ -13,4 +13,4 @@
 - 🔭 I’m currently working on **Flutter apps**
 - 🌱 I’m currently learning **Firebase, GetX, Riverpod**
 - 💬 Ask me about **Flutter, Dart, UI Design**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- 📫 How to reach me: https://www.linkedin.com/in/sibtainzahid/
