@@ -15,7 +15,6 @@
 - 💬 Ask me about **Flutter, Dart, UI Design**
 - 📫 How to reach me: https://www.linkedin.com/in/sibtainzahid/
 - ## 🛠️ Languages - Frameworks - Tools
-## 🛠️ Languages - Frameworks - Tools
 
 <table>
   <tr>
