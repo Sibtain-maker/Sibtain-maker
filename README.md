@@ -43,3 +43,6 @@
 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sibtainzahid/)
 - 📧 Email: msibtain1236@gmail.com
+### 📈 GitHub Contribution Graph
+
+[![Sibtain-maker's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sibtain-maker&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
