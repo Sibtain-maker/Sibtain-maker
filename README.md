@@ -26,6 +26,24 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
+## 👋 Hi there, I'm Arslan Yousaf
+I'm a passionate developer who loves building cool stuff using C++, Dart, and Flutter!
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🔗 Connect With Me
+- ✉️ Email: msibtain1236@gmail.com
+
 
 
  
