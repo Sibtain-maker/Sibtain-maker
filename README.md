@@ -17,20 +17,6 @@ I'm a passionate **Flutter developer** focused on building high-performance cros
 
 ---
 
-## 📂 Selected Projects
-
-
-
-### 🍔 [Food Delivery UI](https://github.com/Sibtain-maker/flutter-food-app)
-A beautiful, responsive food ordering UI made with Flutter and GetX.
-
----
-
-## 📊 GitHub Stats
-
-![Sibtain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibtain-maker&show_icons=true&theme=dark)
-
----
 
 ## 📬 Connect with Me
 
@@ -51,9 +37,6 @@ A beautiful, responsive food ordering UI made with Flutter and GetX.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibtain-maker&show_icons=true&theme=dark)
 
 
 
