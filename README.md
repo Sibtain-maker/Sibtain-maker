@@ -1,21 +1,43 @@
-<h1 align="center">👋 Hello World! I'm Sibtain</h1>
-<h3 align="center">🚀 Flutter Engineer</h3>
+# 👋 Hi, I'm M Sibtain Zahid
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sibtain-maker&label=Profile%20views&color=0e75b6&style=flat" alt="Sibtain-maker" />
-</p>
+### 🚀 Flutter Engineer | Mobile App Developer | Dart & Firebase Enthusiast
+
+I'm a passionate **Flutter developer** focused on building high-performance cross-platform apps using **Dart**, **Firebase**, **Riverpod**, and modern UI techniques. I love solving problems and crafting clean, scalable code.
+
+---
+
+## 🛠️ Skills & Tools
+
+- Flutter, Dart
+- Firebase (Auth, Firestore)
+- REST API, Supabase
+- Git & GitHub
+- UI/UX Design, Figma
+- Riverpod, GetX
 
 ---
 
-## 🧠 About Me
+## 📂 Selected Projects
 
-- 🛠️ I’m currently working on **Flutter apps**
-- 🌱 I’m currently learning **Firebase**, **GetX**, and **Riverpod**
-- 💬 Ask me about **Flutter**, **Dart**, and **UI Design**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sibtainzahid/)
-- 📧 Email: **msibtain1236@gmail.com**
+
+
+### 🍔 [Food Delivery UI](https://github.com/Sibtain-maker/flutter-food-app)
+A beautiful, responsive food ordering UI made with Flutter and GetX.
 
 ---
+
+## 📊 GitHub Stats
+
+![Sibtain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibtain-maker&show_icons=true&theme=dark)
+
+---
+
+## 📬 Connect with Me
+
+- 📧 Email: msibtain1236@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/msibtainzahid/)  
+- 🌐 [Portfolio (optional)](https://yourportfolio.com)
+
 
 ## ⚒️ Languages – Frameworks – Tools
 
