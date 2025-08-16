@@ -1,10 +1,12 @@
-# 👋 Hi, I'm M Sibtain Zahid
+👋 Hello World! I'm M Sibtain Zahid
+<div align="center">
+  <h1 style="color: #58a6ff;">Flutter Engineer</h1>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square&label=Profile+views" alt="Profile Views">
+</div>
 
-### 🚀 Flutter Engineer | Mobile App Developer | Dart & Firebase Enthusiast
-
-I'm a passionate **Flutter developer** focused on building high-performance cross-platform apps using **Dart**, **Firebase**, **Riverpod**, and modern UI techniques. I love solving problems and crafting clean, scalable code.
-
----
 
 ## 🛠️ Skills & Tools
 
