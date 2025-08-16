@@ -8,12 +8,12 @@
 
 ## 🛠️ Skills & Tools
 
-- Flutter, Dart
-- Firebase (Auth, Firestore)
-- REST API, Supabase
-- Git & GitHub
-- UI/UX Design, Figma
-- Riverpod, GetX
+- 🚀 Flutter, Dart
+- 🔥 Firebase (Auth, Firestore)
+- 🌐 REST API, Supabase
+- 💻 Git & GitHub
+- 🎨 UI/UX Design, Figma
+- ⚡ Riverpod, GetX
 
 ---
 ## 📬 Connect with Me
