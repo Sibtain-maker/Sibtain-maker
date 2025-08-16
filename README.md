@@ -1,11 +1,9 @@
 👋 Hello World! I'm M Sibtain Zahid
 <div align="center">
-  <h1 style="color: #58a6ff;">Flutter Engineer</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Flutter+Engineer;Mobile+App+Developer;Cross+Platform+Expert;Dart+Developer" alt="Typing SVG">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/github/followers/YourGitHubUsername?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square&label=Profile+views" alt="Profile Views">
-</div>
+  <img src="https://img.shields.io/github/followers/YourGitHubUsername?
 
 
 ## 🛠️ Skills & Tools
