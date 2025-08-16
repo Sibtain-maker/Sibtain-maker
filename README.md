@@ -16,7 +16,8 @@
 - Riverpod, GetX
 
 ---
-
+</div>
+<div align="center">
 
 ## 📬 Connect with Me
 
