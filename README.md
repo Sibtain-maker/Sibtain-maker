@@ -38,11 +38,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtain-maker&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## 🔗 Connect With Me
-
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/sibtainzahid/)
-- 📧 Email: msibtain1236@gmail.com
 ### 📈 GitHub Contribution Graph
 
 [![Sibtain-maker's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sibtain-maker&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
