@@ -26,7 +26,6 @@ I'm a passionate **Flutter developer** focused on building high-performance cros
 
 
 ## Languages – Frameworks – Tools 🛠️
-## Languages – Frameworks – Tools 🛠️
 
 | | | | | |
 | --- | --- | --- | --- | --- |
