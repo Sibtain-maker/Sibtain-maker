@@ -26,7 +26,7 @@ I'm a passionate **Flutter developer** focused on building high-performance cros
 
 ## Languages – Frameworks – Tools 🛠️
 
-| | | | | |
+
 | --- | --- | --- | --- | --- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> |
 | Flutter | Dart | Supabase | Git | Firebase |
