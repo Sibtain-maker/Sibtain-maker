@@ -16,14 +16,13 @@
 - Riverpod, GetX
 
 ---
-</div>
-<div align="center">
-
 ## 📬 Connect with Me
 
 - 📧 Email: msibtain1236@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/msibtainzahid/)  
 
+</div>
+<div align="center">
 
 ## Languages – Frameworks – Tools 🛠️
 
