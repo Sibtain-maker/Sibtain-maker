@@ -31,16 +31,20 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> |  
 | Flutter | Dart | Supabase | Git | Firebase |  
 
-</div>  
-
 ---
 
 ## 📊 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtain-maker&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtain-maker&layout=compact&theme=dark" alt="Top Langs"/>  
+</div>  
 
 ---
 
 ## 📈 GitHub Contribution Graph  
 
-[![Sibtain-maker's GitHub Activity Graph](https://github-re)]()
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibtain-maker&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>  
+</div>  
+
+</div>
