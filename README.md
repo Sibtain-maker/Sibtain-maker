@@ -1,57 +1,47 @@
-# 👋 Welcome to My GitHub  
-
+<!-- Header with Shiny Gradient Name -->
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #00FFA3, #DC1FFF); -webkit-background-clip: text; color: transparent; font-size: 42px; font-weight: bold;">
-    M Sibtain Zahid
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=42&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=✨+M+Sibtain+Zahid+✨;Flutter+Developer;Mobile+App+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
+---
+
+## 🚀 About Me  
+- 🎯 Flutter Mobile App Developer  
+- 🔥 Experienced with **Firebase** & **Supabase**  
+- 🎨 Passionate about **UI/UX** design  
+- 💻 Love building modern & scalable mobile solutions  
+
+---
+
+## 🛠️ Tech Stack  
+
 <p align="center">
-  <b>Flutter Mobile Application Developer | Firebase | Supabase | UI/UX</b>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,figma,vscode" />
 </p>
 
 ---
 
-## ✨ About Me  
+## 📊 GitHub Stats  
 
-I am a dedicated **Flutter developer** with a strong focus on building scalable, user-friendly, and visually appealing mobile applications. My expertise lies in integrating **Firebase** and **Supabase** backends, leveraging modern state management solutions, and designing clean UI/UX systems that enhance usability.  
-
----
-
-## 🚀 Skills & Technologies  
-
-<div align="center">
-
-| Mobile | Backend | Tools | UI/UX | Version Control |
-|--------|----------|-------|-------|-----------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> | 🎨 Figma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> |
-| Dart | Supabase | REST APIs | UI Design | GitHub |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibtain-maker&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtain-maker&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
-## 📊 GitHub Insights  
+## 🌐 Connect with Me  
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibtain-maker&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtain-maker&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Let's Connect  
-
-- 📧 **Email:** msibtain1236@gmail.com  
-- 💼 **LinkedIn:** [M Sibtain Zahid](https://www.linkedin.com/in/msibtainzahid/)  
-- 🐙 **GitHub:** [Sibtain-maker](https://github.com/Sibtain-maker)  
+<p align="center">
+  <a href="mailto:msibtain1236@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Sibtain-maker"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/msibtainzahid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-<div align="center">
+## 📈 Activity Graph  
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sibtain-maker&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibtain-maker&theme=react-dark&hide_border=true&area=true" />
+</p>
