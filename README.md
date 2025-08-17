@@ -1,13 +1,13 @@
 # 👋 Hello World! I'm  
 
 <p align="center">
-  <!-- 🌟 Shiny Glitch Banner -->
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=M%20Sibtain%20Zahid&width=800&height=200" alt="Glitch Banner" />
+  <!-- 🌈 Gradient Shiny Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=M%20Sibtain%20Zahid&fontSize=40&fontColor=ffffff&animation=twinkling" alt="banner" />
 </p>
 
 <div align="center">
   <!-- ✨ Neon Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&repeat=true&width=650&height=80&lines=🚀+Flutter+Engineer;📱+Mobile+App+Developer;⚡+Cross+Platform+Expert;🎯+Dart+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&repeat=true&width=650&height=80&lines=🚀+Flutter+Engineer;📱+Mobile+App+Developer;⚡+Cross+Platform+Expert;🎯+Dart+Developer" alt="Typing SVG" />
 </div>
 
 ---
