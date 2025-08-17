@@ -1,10 +1,13 @@
-# 👋 Hello World! I'm M Sibtain Zahid
+# 👋 Hello World! I'm  
+
+<p align="center">
+  <!-- 🌟 Shiny Glitch Banner -->
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=M%20Sibtain%20Zahid&width=800&height=200" alt="Glitch Banner" />
+</p>
 
 <div align="center">
-
-  <!-- 🌟 Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=80&lines=🚀+Flutter+Engineer;📱+Mobile+App+Developer;⚡+Cross+Platform+Expert;🎯+Dart+Developer" alt="Typing SVG" />
-
+  <!-- ✨ Neon Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&repeat=true&width=650&height=80&lines=🚀+Flutter+Engineer;📱+Mobile+App+Developer;⚡+Cross+Platform+Expert;🎯+Dart+Developer" alt="Typing SVG" />
 </div>
 
 ---
@@ -24,6 +27,7 @@
 
 📧 **Email:** msibtain1236@gmail.com  
 💼 **LinkedIn:** [M Sibtain Zahid](https://www.linkedin.com/in/msibtainzahid/)  
+🐙 **GitHub:** [Sibtain-maker](https://github.com/Sibtain-maker)  
 
 ---
 
