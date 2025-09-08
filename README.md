@@ -8,9 +8,12 @@
 
 ## 🛠️ Skills & Tools  
 
-| Skills | |
-|--------|-----------------------------|
-| 🚀 **Flutter, Dart** <br> 🔥 **Firebase (Auth, Firestore)** <br> 🌐 **REST API, Supabase** <br> 💻 **Git & GitHub** <br> 🎨 **UI/UX Design, Figma** <br> ⚡ **Riverpod, GetX** | <img src="https://i.ibb.co/Nn3WnD1/hacker.png" alt="Hacker Icon" width="150"/> |
+- 🚀 **Flutter, Dart**  
+- 🔥 **Firebase (Auth, Firestore)**  
+- 🌐 **REST API, Supabase**  
+- 💻 **Git & GitHub**  
+- 🎨 **UI/UX Design, Figma**  
+- ⚡ **Riverpod, GetX**  
 
 ---
 
