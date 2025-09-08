@@ -1,30 +1,16 @@
 # 👋 Hello World! I'm M Sibtain Zahid  
 
-<div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Flutter+Engineer;Mobile+App+Developer;Cross+Platform+Expert;Dart+Developer" alt="Typing SVG">  
-</div>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Flutter+Engineer;Mobile+App+Developer;Cross+Platform+Expert;Dart+Developer" alt="Typing SVG">
+</p>  
 
 ---
 
 ## 🛠️ Skills & Tools  
 
-<table>
-  <tr>
-    <td>
-      
-- 🚀 Flutter, Dart  
-- 🔥 Firebase (Auth, Firestore)  
-- 🌐 REST API, Supabase  
-- 💻 Git & GitHub  
-- 🎨 UI/UX Design, Figma  
-- ⚡ Riverpod, GetX  
-
-    </td>
-    <td>
-      <img src="https://i.ibb.co/Nn3WnD1/hacker.png" alt="Hacker Icon" width="180"/>
-    </td>
-  </tr>
-</table>
+| Skills | |
+|--------|-----------------------------|
+| 🚀 **Flutter, Dart** <br> 🔥 **Firebase (Auth, Firestore)** <br> 🌐 **REST API, Supabase** <br> 💻 **Git & GitHub** <br> 🎨 **UI/UX Design, Figma** <br> ⚡ **Riverpod, GetX** | <img src="https://i.ibb.co/Nn3WnD1/hacker.png" alt="Hacker Icon" width="150"/> |
 
 ---
 
@@ -33,8 +19,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/msibtainzahid/)  
 
 ---
-
-<div align="center">  
 
 ## 🔧 Languages – Frameworks – Tools 🛠️  
 
@@ -47,16 +31,14 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtain-maker&layout=compact&theme=dark" alt="Top Langs"/>  
-</div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtain-maker&layout=compact&theme=dark" alt="Top Langs"/>
+</p>  
 
 ---
 
 ## 📈 GitHub Contribution Graph  
 
-<div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibtain-maker&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>  
-</div>  
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibtain-maker&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
