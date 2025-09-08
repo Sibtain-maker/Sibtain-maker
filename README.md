@@ -8,22 +8,23 @@
 
 ## 🛠️ Skills & Tools  
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  
-  <div>
-    - 🚀 Flutter, Dart  
-    - 🔥 Firebase (Auth, Firestore)  
-    - 🌐 REST API, Supabase  
-    - 💻 Git & GitHub  
-    - 🎨 UI/UX Design, Figma  
-    - ⚡ Riverpod, GetX  
-  </div>
-  
-  <div>
-    <img src="https://i.ibb.co/Nn3WnD1/hacker.png" alt="Hacker Icon" width="180"/>
-  </div>
+<table>
+  <tr>
+    <td>
+      
+- 🚀 Flutter, Dart  
+- 🔥 Firebase (Auth, Firestore)  
+- 🌐 REST API, Supabase  
+- 💻 Git & GitHub  
+- 🎨 UI/UX Design, Figma  
+- ⚡ Riverpod, GetX  
 
-</div>
+    </td>
+    <td>
+      <img src="https://i.ibb.co/Nn3WnD1/hacker.png" alt="Hacker Icon" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
